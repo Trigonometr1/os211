@@ -1,0 +1,7 @@
+# START Sat Feb 20 15:28:02 WIB 2021
+# ##################################
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 14 L03 GitHub related
+ZCZC W00 8 L06 Reading Refereces/Books/Documents
