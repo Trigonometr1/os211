@@ -1,3 +1,4 @@
+# REV03 Mon Feb 22 14:50:51 WIB 2021
 # REV02 Sun Feb 21 13:51:22 WIB 2021
 # REV01 Sat Feb 20 15:56:11 WIB 2021
 # START Sat Feb 20 15:28:02 WIB 2021
@@ -12,3 +13,6 @@ ZCZC W00 15 L04 GitHub Pages: setting, change theme
 ZCZC W00 7 L01 SCELE related
 ZCZC W00 6 L23 Discord: joined OS server
 ZCZC W00 14 L05 GSGS related
+ZCZC W00 18 L21 VirtualBox: Downloading needed software
+ZCZC W00 25 L22 Youtube: Watching what VirtualBox is and how to use it. Also watch about what Debian is.
+ZCZC W00 6 L01 Search for new updates in scele forum
