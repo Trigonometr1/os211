@@ -14,3 +14,4 @@ ZCZC W00 6 L01 Search for new updates in scele forum
 ZCZC W00 42 L24 Udacity: Reading Linux From Scratch website
 ZCZC W00 75 L02 ZOOM week 0
 ZCZC W00 16 L00 Answering pop quiz in scele
+ZCZC W00 9 L21 VirtualBox: Installed and enabled VMX in BIOS
