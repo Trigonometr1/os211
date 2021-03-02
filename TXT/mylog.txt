@@ -18,3 +18,6 @@ ZCZC W00 9 L21 VirtualBox: Installed and enabled VMX in BIOS
 ZCZC W00 70 L24 Udacity: Learning how to troubleshoot on Debian/Ubuntu installation
 ZCZC W01 107 L02 ZOOM week 1, understanding week 1 assignment
 ZCZC W01 137 L21 VirtualBox: Installed Debian
+ZCZC W01 3 L09 AsDos: Asking about username when installing Debian
+ZCZC W01 53 L00 Answering pop quiz week 1
+
