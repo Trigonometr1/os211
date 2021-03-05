@@ -20,4 +20,6 @@ ZCZC W01 107 L02 ZOOM week 1, understanding week 1 assignment
 ZCZC W01 137 L21 VirtualBox: Installed Debian
 ZCZC W01 3 L09 AsDos: Asking about username when installing Debian
 ZCZC W01 53 L00 Answering pop quiz week 1
+ZCZC W01 120 L11 Assignment #1: Learned and practiced how to use PuTTY to update Debian
+ZCZC W01 47 L23 Discord: Asking friends about what should I do after updating Debian
 
