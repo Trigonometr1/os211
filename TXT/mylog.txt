@@ -22,4 +22,5 @@ ZCZC W01 3 L09 AsDos: Asking about username when installing Debian
 ZCZC W01 53 L00 Answering pop quiz week 1
 ZCZC W01 120 L11 Assignment #1: Learned and practiced how to use PuTTY to update Debian
 ZCZC W01 47 L23 Discord: Asking friends about what should I do after updating Debian
-
+ZCZC W01 20 L05 GSGS about copy paste vi while in PuTTY
+ZCZC W01 23 L11 Assignment #1: Added and tested .bash_aliases, learned vi editor and how to copy paste in PuTTY
