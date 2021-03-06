@@ -26,3 +26,5 @@ ZCZC W01 20 L05 GSGS about copy paste vi while in PuTTY
 ZCZC W01 23 L11 Assignment #1: Added and tested .bash_aliases, learned vi editor and how to copy paste in PuTTY
 ZCZC W01 5 L11 Assignment #1: Trying to edit mylog.txt in vi
 ZCZC W01 7 L07 Running some file in Demo week 1
+ZCZC W01 190 L11 Assignment #1: Updated GitHub Pages through ATM method
+ZCZC W01 20 L05 GSGS about GitHub Pages
