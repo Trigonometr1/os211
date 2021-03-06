@@ -24,3 +24,5 @@ ZCZC W01 120 L11 Assignment #1: Learned and practiced how to use PuTTY to update
 ZCZC W01 47 L23 Discord: Asking friends about what should I do after updating Debian
 ZCZC W01 20 L05 GSGS about copy paste vi while in PuTTY
 ZCZC W01 23 L11 Assignment #1: Added and tested .bash_aliases, learned vi editor and how to copy paste in PuTTY
+ZCZC W01 5 L11 Assignment #1: Trying to edit mylog.txt in vi
+ZCZC W01 7 L07 Running some file in Demo week 1
