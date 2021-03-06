@@ -1,1 +1,1 @@
-Trigonometr1's Repository for Operating System Lesson
+Trigonometr1's GitHub Repo and GitHub Pages for Operating System Lesson
