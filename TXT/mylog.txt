@@ -16,6 +16,7 @@ ZCZC W00 75 L02 ZOOM week 0
 ZCZC W00 16 L00 Answering pop quiz in scele
 ZCZC W00 9 L21 VirtualBox: Installed and enabled VMX in BIOS
 ZCZC W00 70 L24 Udacity: Learning how to troubleshoot on Debian/Ubuntu installation
+
 ZCZC W01 107 L02 ZOOM week 1, understanding week 1 assignment
 ZCZC W01 137 L21 VirtualBox: Installed Debian
 ZCZC W01 3 L09 AsDos: Asking about username when installing Debian
@@ -31,3 +32,11 @@ ZCZC W01 20 L05 GSGS about GitHub Pages
 ZCZC W01 72 L11 Assignment #1: Created Top 10 Lists Week 1
 ZCZC W01 85 L24 Udacity: Learning all from my Top 10 Lists Week 1
 ZCZC W01 15 L23 Discord: asking about ssh to badak
+
+ZCZC W02 24 L00 Answering pop quiz week 2
+ZCZC W02 10 L05 GSGS about materials for week 2 top 10 list
+ZCZC W02 20 L12 Assignment #2: Created GnuPG Key Pair
+ZCZC W02 20 L12 Assignment #2: Exported mypubkey.txt and imported ospubkey.txt
+ZCZC W02 6 L12 Assignment #2: Modified myscript.sh from cbkadal
+ZCZC W02 17 L07 Trying c-languages demo
+ZCZC W02 15 L12 Assignment #2: Searched top 3 for myrank.txt

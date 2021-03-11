@@ -1,0 +1,6 @@
+# Top 10 Rank (3 chosen per week)
+# Format: ZCZC WXX GitHub_Account
+
+ZCZC W01 zaki-indra
+ZCZC W01 yosuahutagalung
+ZCZC W01 YasyfaWiwaha
