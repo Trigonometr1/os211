@@ -38,3 +38,4 @@ ZCZC W02 20 L12 Assignment #2: Exported mypubkey.txt and imported ospubkey.txt
 ZCZC W02 6 L12 Assignment #2: Modified myscript.sh from cbkadal
 ZCZC W02 17 L07 Trying c-languages demo
 ZCZC W02 15 L12 Assignment #2: Searched top 3 for myrank.txt
+ZCZC W02 10 L04 GitHub Pages: Updating revision version
