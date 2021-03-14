@@ -39,3 +39,7 @@ ZCZC W02 6 L12 Assignment #2: Modified myscript.sh from cbkadal
 ZCZC W02 17 L07 Trying c-languages demo
 ZCZC W02 15 L12 Assignment #2: Searched top 3 for myrank.txt
 ZCZC W02 10 L04 GitHub Pages: Updating revision version
+ZCZC W02 150 L05 GSGS and read articles for top 10 lists week 2
+ZCZC W02 90 L12 Assignment #2: Created top 10 lists week 2
+ZCZC W02 42 L06 Reading Silberschatz chapter 16 and 17
+ZCZC W02 30 L07 Trying more C languages demo
