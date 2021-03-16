@@ -49,3 +49,4 @@ ZCZC W02 37 L24 Udacity: Continue on reading linux from scratch
 ZCZC W02 70 L07 Trying and understanding more demo week 2
 ZCZC W02 4 L00 Stalking on week 2 progress from others
 ZCZC W02 55 L25 C language: Watching C tutorials on youtube
+ZCZC W02 30 L00 Answering pop quiz week 2
