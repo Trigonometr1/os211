@@ -52,3 +52,10 @@ ZCZC W02 55 L25 C language: Watching C tutorials on youtube
 ZCZC W02 30 L00 Answering pop quiz week 2
 ZCZC W03 30 L00 Answering pop quiz week 3
 ZCZC W03 20 L00 Answering pop quiz week 4 special
+ZCZC W03 97 L02 ZOOM week 3
+ZCZC W03 52 L06 Reading Silberschatz chapter 13, 14, 15
+ZCZC W03 37 L00 Answering pop quiz week 3
+ZCZC W03 49 L07 Trying Demo week 3
+ZCZC W03 21 L13 Assignment #3: Done FUSE W03 assignment
+ZCZC W03 70 L13 Assignment #3: GSGS for top 10 lists week 3
+ZCZC W03 163 L13 Assignment #3: Created top 10 lists week 3
