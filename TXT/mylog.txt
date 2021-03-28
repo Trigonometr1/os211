@@ -61,3 +61,12 @@ ZCZC W03 70 L13 Assignment #3: GSGS for top 10 lists week 3
 ZCZC W03 163 L13 Assignment #3: Created top 10 lists week 3
 ZCZC W04 108 L02 ZOOM Week 4
 ZCZC W04 7 L00 Answering pop quiz w04 q02
+ZCZC W04 30 L06 Reading Silberschatz chapter 9
+ZCZC W04 25 L14 Assignment #4: Done TLPI W04 assignment
+ZCZC W04 63 L07 Trying Demo week 4
+ZCZC W04 15 L21 VirtualBox: Updating Debian guest in VM
+ZCZC W04 37 L21 VirtualBox: Created backup OVA and backed it up to many source
+ZCZC W04 65 L14 Assignment #4: GSGS for top 10 lists week 4
+ZCZC W04 152 L14 Assignment #4: Created top 10 lists week 4
+ZCZC W04 12 L14 Assignment #4: Searched three people worth to be placed in rank w04
+ZCZC W04 2 L14 Assignment #4: Updated myscript.sh

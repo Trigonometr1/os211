@@ -6,4 +6,7 @@ ZCZC W01 yosuahutagalung
 ZCZC W01 YasyfaWiwaha
 ZCZC W02 tsaanativa
 ZCZC W02 valentinohp
-ZCZc W02 X1non
+ZCZC W02 X1non
+ZCZC W03 tsanaativa
+ZCZC W03 yosuahutagalung
+ZCZC W03 YasyfaWiwaha
