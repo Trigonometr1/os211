@@ -70,3 +70,12 @@ ZCZC W04 65 L14 Assignment #4: GSGS for top 10 lists week 4
 ZCZC W04 152 L14 Assignment #4: Created top 10 lists week 4
 ZCZC W04 12 L14 Assignment #4: Searched three people worth to be placed in rank w04
 ZCZC W04 2 L14 Assignment #4: Updated myscript.sh
+ZCZC W05 85 L02 ZOOM Week 5
+ZCZC W05 37 L00 Answering pop quiz week 5
+ZCZC W05 30 L06 Reading Silberschatz chapter 10
+ZCZC W05 22 L07 Trying Demo week 5
+ZCZC W05 32 L21 VirtualBox: Created backup OVA and backed it up to many source
+ZCZC W05 14 L15 Assignment #5: Searched three people for myrank in w05
+ZCZC W05 20 L15 Assignmnet #5: Done DEMO05 assignment
+ZCZC W05 79 L15 Assignment #5: GSGS for top 10 lists week 5
+ZCZC W05 131 L15 Assignment #5: Created top 10 lists week 5
