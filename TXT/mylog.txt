@@ -88,3 +88,7 @@ ZCZC W06 10 L16 Assignment #6: Searched three people for myrank
 ZCZC W06 34 L16 Assignment #6: Done FORK assignment
 ZCZC W06 143 L16 Assignment #6: GSGS and watch materials for top 10 lists week 6
 ZCZC W06 90 L16 Assignment #6: Created top 10 lists week 6
+ZCZC W07 114 L02 ZOOM Week 7
+ZCZC W07 44 Answering pop quiz week 7
+ZCZC W07 25 L21 VirtualBox: Backup OVA
+ZCZC W07 55 L17 Assignment #7: Done Week 7 assignment
