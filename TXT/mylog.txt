@@ -91,4 +91,8 @@ ZCZC W06 90 L16 Assignment #6: Created top 10 lists week 6
 ZCZC W07 114 L02 ZOOM Week 7
 ZCZC W07 44 Answering pop quiz week 7
 ZCZC W07 25 L21 VirtualBox: Backup OVA
+ZCZC W07 40 L06 Reading Silberschatz chapter 6,7, and 8
 ZCZC W07 55 L17 Assignment #7: Done Week 7 assignment
+ZCZC W07 92 L17 Assignment #7: GSGS for week 7 top 10 list
+ZCZC W07 73 L17 Assignment #7: Created top 10 lists week 7
+ZCZC W07 13 L17 Assignment #7: Searched three people for myrank

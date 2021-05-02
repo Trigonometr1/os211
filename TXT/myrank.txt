@@ -15,4 +15,7 @@ ZCZC W04 X1non
 ZCZC W04 Veniche
 ZCZC W05 valentinohp
 ZCZC W05 vandhya
-ZCZc W05 tsanaativa
+ZCZC W05 tsanaativa
+ZCZC W06 YashfaWiwaha
+ZCZC W06 VadimBhirawa
+ZCZC W06 zahrahrp
